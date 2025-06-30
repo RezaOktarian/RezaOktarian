@@ -4,6 +4,14 @@
 **RezaOktarian/RezaOktarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+About me:
+Education:
+1. Sriwijaya University | Bachelor of Economics | Indralaya 2021-2025
+2. SMA N 1 Indralaya | Social Studies | Indralaya 2018-2021
+3. SMP N 1 Indralaya | Indralaya 2015-2018
+Work Experience:
+1. PT. Putri Aurellia Mandiri | Accounting | Indralaya July 2023 - 2025
+Responsible for making financial reports, reporting monthly and annual taxes.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
