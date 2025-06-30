@@ -19,7 +19,7 @@
 #### SMP N 1 Indralaya | Indralaya 2015-2018
 
 ## Pengalaman Kerja:
-#### PT. Putri Aurellia Mandiri | Akuntansi | Indralaya Juli 2023 - 2025 Bertanggung jawab membuat laporan keuangan, melaporkan pajak bulanan dan tahunan.
+#### CV. Putri Aurellia Mandiri | Akuntansi | Indralaya Juli 2023 - 2025, Bertanggung jawab membuat laporan keuangan, melaporkan pajak bulanan, dan tahunan.
 
 <!--
 **RezaOktarian/RezaOktarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
