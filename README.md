@@ -1,10 +1,15 @@
 # Hi there 👋
 ## About me:
 🎓 Saya adalah lulusan Sarjana Ekonomi dengan keahlian kuat dalam analisis keuangan, manajemen keuangan, dan strategi bisnis. Saya punya pemahaman mendalam tentang pasar dan indikator ekonomi, dengan minat khusus pada Ekonomi Pembangunan.
+
 📊 Saya mahir dalam pengelolaan dan analisis data menggunakan Microsoft Excel dan EViews, memungkinkan saya untuk menghasilkan laporan yang akurat, memodelkan data, dan mengidentifikasi tren penting.
+
 📈 Saya bersemangat untuk mengoptimalkan proses bisnis dan pengambilan keputusan berbasis data, khususnya di sektor perbankan. Dengan keahlian analisis yang saya miliki, saya siap berkontribusi dalam otomatisasi laporan keuangan, analisis risiko, atau identifikasi tren pasar untuk mendukung strategi bank.
+
 🌍 Saya ingin berkontribusi pada proyek-proyek yang berfokus pada masalah-masalah Ekonomi Pembangunan, seperti analisis kemiskinan, ketimpangan, atau dampak investasi pada pertumbuhan regional.
+
 💬 Jangan ragu bertanya kepada saya tentang analisis keuangan, Ekonomi Pembangunan, data, atau teknologi!
+
 📫 Anda bisa menghubungi saya melalui: rezaoktarian898@gmail.com
 
 ## Pendidikan:
