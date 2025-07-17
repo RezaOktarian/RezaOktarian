@@ -2,7 +2,7 @@
 ## About me:
 🎓 Saya adalah lulusan Sarjana Ekonomi dengan keahlian kuat dalam analisis keuangan, manajemen keuangan, dan strategi bisnis. Saya punya pemahaman mendalam tentang pasar dan indikator ekonomi, dengan minat khusus pada Ekonomi Pembangunan.
 
-📊 Saya mahir dalam pengelolaan dan analisis data menggunakan Microsoft Excel dan EViews, memungkinkan saya untuk menghasilkan laporan yang akurat, memodelkan data, dan mengidentifikasi tren penting.
+📊 Saya mahir dalam pengelolaan dan analisis data menggunakan Microsoft Excel, Microsoft Word, dan EViews, memungkinkan saya untuk menghasilkan laporan yang akurat, memodelkan data, dan mengidentifikasi tren penting.
 
 📈 Saya bersemangat untuk mengoptimalkan proses bisnis dan pengambilan keputusan berbasis data, khususnya di sektor perbankan. Dengan keahlian analisis yang saya miliki, saya siap berkontribusi dalam otomatisasi laporan keuangan, analisis risiko, atau identifikasi tren pasar untuk mendukung strategi bank.
 
